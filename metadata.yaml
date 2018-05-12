@@ -1,0 +1,40 @@
+_repo: The-Red-Mouse_36247
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Kinney, Troy
+    alias: Kinneys, The
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '25249'
+    url: http://www.gutenberg.org/2009/agents/25249
+  - agent_name: Kinney, Margaret West
+    birthdate: 1872
+    gutenberg_agent_id: '25250'
+    url: http://www.gutenberg.org/2009/agents/25250
+covers:
+- cover_type: archival
+  image_path: 36247-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Osborne, William Hamilton
+    birthdate: 1873
+    deathdate: 1942
+    gutenberg_agent_id: '38164'
+    url: http://www.gutenberg.org/2009/agents/38164
+description: ''
+gutenberg_issued: '2011-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36247'
+  lccn: 09000559
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+title: 'The Red Mouse: A Mystery Romance'
+url: http://www.gutenberg.org/ebooks/36247
